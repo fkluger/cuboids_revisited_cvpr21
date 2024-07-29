@@ -3,10 +3,9 @@
 **UPDATE (2024/03/18):**
 An extended version of our work has been accepted for publication in Transactions on Pattern Analysis and Machine Intelligence (PAMI):\
 [Robust Shape Fitting for 3D Scene Abstraction](https://arxiv.org/abs/2403.10452)\
-The correspondingly extended source code will be published here soon.
+The correspondingly extended source code is available here: [cuboids_revisited](https://github.com/fkluger/cuboids_revisited)
 
 ![Example](assets/animation1.gif)
-
 
 If you use this code, please cite [our paper](http://arxiv.org/abs/2105.02047):
 ```
